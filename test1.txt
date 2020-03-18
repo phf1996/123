@@ -1,3 +1,4 @@
 ﻿测试中文 
 
+japan
 chinese
