@@ -1,4 +1,4 @@
-﻿测试中文 
-
+﻿1 
+2
 japan
 chinese
